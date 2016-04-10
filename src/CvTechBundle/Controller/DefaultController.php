@@ -20,4 +20,9 @@ class DefaultController extends Controller
     {
         //ajout de quelques fonctionnalité
     }
+
+    public function newFeature()
+    {
+        // mon code ici
+    }
 }
