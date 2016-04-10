@@ -25,4 +25,9 @@ class DefaultController extends Controller
     {
         // mon code ici
     }
+
+    public function newFeatureAgain()
+    {
+        //mon nouveau code
+    }
 }
