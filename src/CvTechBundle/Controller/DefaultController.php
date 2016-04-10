@@ -18,6 +18,6 @@ class DefaultController extends Controller
 
     public function newFunctionDevBranch()
     {
-
+        //ajout de quelques fonctionnalité
     }
 }
